@@ -37,6 +37,3 @@ for i in range(len(list1)):
     sim_score += abs(list1[i] * list2.count(list1[i]))
 
 print(f"Similarity score is {sim_score}.")
-
-            
-        
